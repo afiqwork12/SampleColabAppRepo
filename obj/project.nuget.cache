@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VEdrpgUHeqjZTLMKKbNssYjICkzJ/514vt8JZF8GDUQHz/ppJE3X3JuRxlxsIF4lqsRMKyDKvoP/4lmPwnJZg==",
+  "success": true,
+  "projectFilePath": "C:\\DevOps stuff\\file 1\\SampleColabApp\\SampleColabApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afiq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
